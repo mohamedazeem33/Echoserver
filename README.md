@@ -57,11 +57,14 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ## OUTPUT:
 ## Client
-![cli](https://github.com/JAYAVARTHAN-P/Echoserver/assets/121369281/c4e30dcb-f338-4d50-99a4-57881a361074)
+![eth1](https://github.com/mohamedazeem33/Echoserver/assets/121040764/81c4d6e5-9f19-4bee-b25a-917c3102aefb)
+
 
 
 ## Server
-![ser](https://github.com/JAYAVARTHAN-P/Echoserver/assets/121369281/c2009444-d6c9-4fe2-b32b-1bc05adfae9c)
+![eth2](https://github.com/mohamedazeem33/Echoserver/assets/121040764/14c0ad06-fe33-44cd-8601-17422b019bf8)
+
+
 
 
 
